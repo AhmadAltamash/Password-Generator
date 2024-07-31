@@ -15,7 +15,7 @@ html, body {
 }
 
 body {
-  overflow: hidden;
+  overflow-x: hidden;
   background: linear-gradient(to left bottom, #797da1, #4b4e62, #6c708f);
 }
 
@@ -240,7 +240,7 @@ ul {
 
 @media screen and (max-width: 380px) {
   body {
-    overflow: hidden;
+    overflow-x: hidden;
   }
   footer {
     display: flex;

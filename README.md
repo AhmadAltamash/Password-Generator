@@ -51,7 +51,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AhmadAltamash/password-generator/
+   git clone (https://ahmadaltamash.github.io/Password-Generator/)
 2. Open index.html in your web browser.
 
 ## Contribution
@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thanks to the open-source community for providing useful libraries and resources.
 Inspired by the need for secure password management.
 <hr>
-Created by (Altamash Ahmad)[https://github.com/AhmadAltamash]
+Created by [Altamash Ahmad](https://github.com/AhmadAltamash)

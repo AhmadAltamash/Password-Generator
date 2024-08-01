@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thanks to the open-source community for providing useful libraries and resources.
 Inspired by the need for secure password management.
 <hr>
-Created by
-[Altamash Ahmad](https://github.com/ahmadaltamash)
+Created by<br>
+[Altamash Ahmad](https://ahmadaltamash.github.io)
